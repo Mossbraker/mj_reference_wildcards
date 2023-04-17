@@ -1,91 +1,91 @@
 & #ampersand
 ' #apostrophe
 * #asterisk
-@ #at sign
 ⁂ #asterism
+@ #at sign
 \ #backslash
 ` #backtick
-¦ #broken vertical bar
-• #bullet
 ■ #black square
 ● #black circle
-, #comma
-: #colon
+¦ #broken vertical bar
+• #bullet
 ^ #caret
-¢ #cent
-¤ #currency sign
-© #copyright
 ⁁ #caret insertion point
+¢ #cent
 ♧ #club
+: #colon
+, #comma
+© #copyright
+¤ #currency sign
+† #dagger
+° #degrees
+◇ #diamond
+÷ #divide
 $ #dollar
 « #double left-pointing angle quotation mark
-° #degrees
 » #double right-pointing angle quotation mark
-÷ #divide
 „ #double low-9 quotation mark
-† #dagger
 ‡ #double dagger
 ↓ #down arrow
-◇ #diamond
-! #exclimation mark
-= #equals
 … #ellipsis
+= #equals
 € #euro
-⁘ #four dots
+! #exclimation mark
 ⁙ #five dots
+⁘ #four dots
 ⁛ #four dots
 > #greater than
-- #hyphen
 ♡ #heart
+- #hyphen
+‽ #interrobang
 ¡ #inverted exclimation mark
 ¿ #inverted question mark
-‽ #interrobang
 ⁝ #isocolon
+ƒ #latinf
 ( #left parenthesis
-< #less than
 [ #left square bracket
 { #left curly bracket
-ƒ #latinf
 ← #left arrow
 《 #left guillemet
+< #less than
 ¯ #macron
 × #multiply
 # #number sign
-% #percent
-+ #plus
-. #period
-£ #pound
-± #plus-minus sign
 ¶ #paragraph
+% #percent
+. #period
 ‰ #permile
 ⁋ #pilcrow
-" #quotation mark
++ #plus
+± #plus-minus sign
+£ #pound
 ? #question mark
+" #quotation mark
+® #registered trademark
 ) #right parenthesis
 ] #right square bracket
 } #right curly bracket
-® #registered trademark
 → #right arrow
 》 #right guillemet
-/ #slash
-; #semicolon
 § #section sign
+; #semicolon
 ‹ #single left-pointing angle quotation mark
 › #single right-pointing angle quotation mark
+/ #slash
 ▪ #small black square
-☆ #star
 ♤ #spade
-~ #tilde
-‣ #triangular bullet
+☆ #star
 ⁖ #three dots
-⁚ #two dots
+~ #tilde
 ™ #trademark
+‣ #triangular bullet
 ⅋ #turned ampersand
+⁚ #two dots
 _ #underscore
 ↑ #up arrow
 | #vertical bar
-₩ #won
+⁞ #vertical four dots
 □ #white square
 ○ #white circle
+₩ #won
 ¥ #yen
-⁞ #vertical four dots
