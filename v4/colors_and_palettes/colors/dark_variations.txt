@@ -1,0 +1,13 @@
+dark-blue
+dark-brown
+dark-cyan
+dark-green
+dark-lime
+dark-magenta
+dark-maroon
+dark-orange
+dark-pink
+dark-purple
+dark-red
+dark-white
+dark-yellow

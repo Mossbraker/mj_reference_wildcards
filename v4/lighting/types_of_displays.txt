@@ -1,0 +1,14 @@
+7 segment display
+amoled
+crt
+dot matrix display
+electroluminescent display
+jumbotron
+lcd
+led
+oled
+phosphor display
+plasma display
+quantum dot
+quantum dot display
+vacuum fluorescent display

@@ -1,0 +1,27 @@
+anterior
+asymmetric
+concave
+convex
+convex hull
+cyclic
+edge
+ehrhart polynomial
+equiangular
+equilateral
+exterior
+ideal polyhedron
+interior
+isogonal
+isohedral
+isotoxal
+polytope
+quasi
+quasi-regular
+rectilinear
+stellation
+surface
+symmetric
+symmetry
+tangential
+traverse
+vertex

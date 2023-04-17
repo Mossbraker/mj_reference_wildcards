@@ -1,0 +1,4 @@
+chromatic aberration
+harris shutter
+rgb displacement
+spherical aberration

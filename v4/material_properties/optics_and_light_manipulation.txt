@@ -1,0 +1,18 @@
+ambient occlusion
+chromatic
+dispersion
+glitter
+iridescent
+materiality
+opalescent
+optics
+polarization
+polarized
+prismatic
+scattering
+scintillating
+solarization
+solarized
+sparkles
+sparkly
+subsurface-scattering

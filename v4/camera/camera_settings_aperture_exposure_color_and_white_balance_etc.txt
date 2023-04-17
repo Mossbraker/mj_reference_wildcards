@@ -1,0 +1,12 @@
+aperture
+double-exposure
+exposure
+f2
+f22
+gamma
+long exposure
+rule of thirds
+short exposure
+shutter speed 11000
+shutter speed 12
+white balance

@@ -1,0 +1,13 @@
+clay
+dirt
+dust
+gravel
+kaolinite
+mud
+mud brick
+podzol
+sand
+sandpaper
+silt
+soil
+spodosol

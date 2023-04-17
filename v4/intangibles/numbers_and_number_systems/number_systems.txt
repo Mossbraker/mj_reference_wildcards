@@ -1,0 +1,11 @@
+binary
+decimal
+hexadecimal
+nonary
+octal
+quaternary
+quinary
+senary
+septenary
+ternary
+unary

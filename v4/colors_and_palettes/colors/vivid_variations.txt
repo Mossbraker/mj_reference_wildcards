@@ -1,0 +1,12 @@
+vivid-blue
+vivid-brown
+vivid-cyan
+vivid-green
+vivid-lime
+vivid-magenta
+vivid-maroon
+vivid-orange
+vivid-pink
+vivid-purple
+vivid-red
+vivid-yellow

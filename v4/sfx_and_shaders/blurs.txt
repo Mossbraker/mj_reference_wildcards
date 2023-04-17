@@ -1,0 +1,12 @@
+blur
+blur effect
+blurred
+blurry
+drifting
+field-blur
+gaussian-blur
+motion
+motion-blur
+radial-blur
+surface-blur
+tilt blur

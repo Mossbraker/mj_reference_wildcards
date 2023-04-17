@@ -1,0 +1,48 @@
+apartment
+atrium
+attic
+balcony
+basement
+bathroom
+bedroom
+cellar
+closet
+conservatory
+crawlspace
+den
+dining room
+external
+front room
+game room
+garage
+greenhouse
+guest room
+gym room
+hallway
+home theater
+home-office
+hotel room
+inside
+internal
+kitchen
+labyrinth
+laundry room
+library
+living room
+lounge
+mud-room
+nursery
+office
+outside
+passageway
+porch
+prayer room
+rooftop
+room
+shed
+storage room
+study
+sun-room
+underground
+utility room
+wine-cellar

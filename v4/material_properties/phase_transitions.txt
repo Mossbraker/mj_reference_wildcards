@@ -1,0 +1,8 @@
+condensation
+deionization
+deposition
+freezing
+ionization
+melting
+sublimation
+vaporization

@@ -1,0 +1,17 @@
+amplitude distortion
+barrel distortion
+continuous droste
+distortion
+frequency response distortion
+group delay distortion
+harmonic distortion
+interlace
+interlaced
+lenticular
+morph
+morphing
+mustache distortion
+phase distortion
+pincushion distortion
+radial distortion
+tornadic

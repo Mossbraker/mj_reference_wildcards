@@ -1,0 +1,34 @@
+autumn
+breeze
+downpour
+eruption
+flood
+flooded
+fogbow
+frozen-in-time photograph
+hail
+heat
+heatwave
+hurricane
+lightning
+lightning bolt
+lightningwave
+microburst
+moonbow
+overcast
+rain
+sandstorm
+seasons
+sleet
+snow
+spring
+storm
+stormy
+summer
+thunderbolt
+tornado
+tsunami
+weather
+weathercore
+wind
+winter

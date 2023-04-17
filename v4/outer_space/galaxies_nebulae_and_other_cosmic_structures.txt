@@ -1,0 +1,8 @@
+asteroid
+galaxy
+hypernova
+microquasar
+nebula
+quasar
+supernova
+vela pulsar

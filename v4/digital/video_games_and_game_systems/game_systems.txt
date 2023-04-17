@@ -1,0 +1,33 @@
+atari
+atari 2600
+atari st
+famicom
+game boy
+game boy advance
+game boy color
+gamecube
+nes
+nintendo 3ds
+nintendo 64
+nintendo ds
+nintendo dsi
+nintendo entertainment system
+nintendo famicom
+nintendo switch
+playstation 1
+playstation 2
+playstation 3
+playstation 4
+playstation 5
+playstation portable
+playstation vita
+ps vita
+psp
+snes
+super nintendo entertainment system
+wii
+wii u
+xbox
+xbox 360
+xbox one
+xbox one x

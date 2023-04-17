@@ -1,0 +1,22 @@
+amigaos
+chrome os
+classic-mac-os
+dos
+ios
+linux
+mac-osx
+macos
+ms-dos
+operating system
+os
+ubuntu
+unix
+watchos
+wearos
+windows-10
+windows-11
+windows-7
+windows-8
+windows-95
+windows-vista
+windows-xp

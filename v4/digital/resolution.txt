@@ -1,0 +1,14 @@
+1080p
+144p
+16k
+240p
+32k
+480p
+4k
+720p
+8k
+full-hd
+hd
+super-resolution
+uhd
+ultra-hd

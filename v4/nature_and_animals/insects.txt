@@ -1,0 +1,8 @@
+ant
+bee
+butterfly
+caterpillar
+earthworm
+grasshopper
+sandworm
+worms

@@ -1,0 +1,44 @@
+3d shape
+anti-prism
+anticupola
+antiprism
+bezier surface
+bicupola
+bifrustum
+bipyramid
+birotunda
+cone
+cube
+cuboctahedron
+cuboid
+cupola
+cylinder
+dodecahedron
+frustum
+hexaflexagon
+hypercupolae
+icosahedron
+icosidodecahedron
+kepler-poinsot polyhedra
+miura fold
+mobius strip
+octahedron
+orb
+prismatoid
+pyramid
+rectangular prism
+rhombicosidodecahedron
+rhombicuboctahedron
+rotunda
+scutoid
+sphere
+spherical polyhedron
+star bipyramid
+star prism
+star trapezohedron
+tetrahedron
+torus
+trapezohedra
+trapezohedron
+wedge
+zonohedron

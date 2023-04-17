@@ -1,0 +1,13 @@
+light-black
+light-blue
+light-brown
+light-cyan
+light-green
+light-lime
+light-magenta
+light-maroon
+light-orange
+light-pink
+light-purple
+light-red
+light-yellow

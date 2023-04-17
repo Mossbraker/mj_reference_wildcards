@@ -1,0 +1,5 @@
+cauliflower
+fig
+fruit
+mango
+vegetable

@@ -1,0 +1,82 @@
+aluminum
+anodized titanium
+armature wire
+barbwire
+bismuth
+bismuth crystals
+brass
+bronze
+brushed aluminum
+chain
+chain-link
+chain-link fence
+chicken wire
+chrome
+chromium
+cobalt
+constantan
+copper
+copper-sulfate
+cubic zirconium
+damascus
+damascus metal
+damascus steel
+damascus titanium
+fence
+foil
+gallium
+gold
+hepatizon
+hepatizon metal
+indium
+iron
+iron filings
+iron metal
+lead
+lead metal
+liquid bismuth
+liquid mercury
+liquid metal
+magnesium
+magnesium metal
+melted bismuth
+melted gallium
+melted indium
+mercury
+mercury metal
+metal
+metal foam
+metallic
+metallic fiber
+molten mercury
+molten mercury metal
+nichrome
+nichrome metal
+nichrome wire
+pewter
+platinum
+potassium
+potassium metal
+rose-gold
+rusty
+silver
+sodium
+sodium metal
+solder
+solder metal
+stainless steel
+steel
+sterling
+sterling silver
+tarnish
+tarnished brass
+tarnished gold
+tarnished metal
+tarnished silver
+tin
+titanium
+tungsten
+uranium
+wrought iron
+zinc
+zirconium

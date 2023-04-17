@@ -1,0 +1,8 @@
+elf
+entities
+goblin
+halfling
+mermaid
+orc
+warlock
+wizard

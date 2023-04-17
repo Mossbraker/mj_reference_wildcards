@@ -1,0 +1,37 @@
+backdrop
+balloon
+band-aid
+bandage
+bean-bag
+bench
+bling
+bracelet
+bubble
+bunsen burner
+cage
+cheese grater
+dichroic-prism
+dispersive-prism
+fingerprint
+flag
+gauze
+greenscreen
+lipstick
+mat
+metal nail
+nail
+needle
+paper clips
+plume
+ribbons
+rubber band
+rubber band ball
+screw
+seashell
+silly band
+soap
+teapot
+tesla valve
+toilet
+veins
+yardstick

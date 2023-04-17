@@ -1,0 +1,13 @@
+2x2-bayer-matrix dithering
+4x4-bayer-matrix dithering
+8x8-bayer-matrix dithering
+atkinson dithering
+bayer-matrix dithering
+burkes dithering
+dither
+dithering
+floydsteinberg dithering
+gradient-based error-diffusion dithering
+jarvis-judice-ninke dithering
+sierra dithering
+stucki dithering

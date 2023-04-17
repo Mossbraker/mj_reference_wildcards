@@ -1,0 +1,24 @@
+⚛ #atom symbol
+☣ #biohazard sign
+♣ #club suit
+💥 #collision symbol
+➰ #curly loop
+💠 #diamond shape with a dot inside
+♦ #diamond suit
+💫 #dizzy symbol
+➰ #double curly loop
+⚜ #fleur-de-lis
+❤ #heart
+♥ #heart suit
+⚡ #high voltage sign
+♾ #infinity symbol
+🎶 #multiple musical notes
+🎵 #musical note
+🎼 #musical score
+☮ #peace symbol
+☢ #radioactive sign
+♠ #spade suit
+✨ #sparkles
+⚠ #warning sign
+💨 #wavy dash
+☯ #yin yang

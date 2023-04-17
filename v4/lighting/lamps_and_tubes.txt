@@ -1,0 +1,34 @@
+arc lamp
+argand lamp
+argon lamp
+carbide lamp
+crackle tube
+dekatron
+diya lamp
+electrodeless lamp
+flash-lamp
+flashtube
+fluorescent lamp
+gas lamp
+gas mantle
+geissler tube
+halogen lamp
+helium lamp
+hollow-cathode lamp
+incandescent lamp
+kerosene lamp
+krypton lamp
+lava lamp
+mercury-vapor lamp
+metal-halide lamp
+neon lamp
+nixie tube
+oil lamp
+plasma globe
+plasma lamp
+rubens-tube
+sodium-vapor lamp
+sulfur lamp
+tilley lamp
+vacuum tube lamp
+xenon lamp

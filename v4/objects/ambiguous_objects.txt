@@ -1,0 +1,12 @@
+bauble
+blobject
+curio
+doodad
+items
+knickknack
+nick-nack
+object
+stuff
+tchotchke
+things
+trinket

@@ -1,0 +1,5 @@
+double
+quadruple
+quintuple
+single
+triple

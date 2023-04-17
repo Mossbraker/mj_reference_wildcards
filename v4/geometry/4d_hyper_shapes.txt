@@ -1,0 +1,20 @@
+4d hyper shape
+4d shape
+flexible polyhedron
+hyper shape
+hypercone
+hypercube
+hypercylinder
+hyperdodecahedron
+hypericosahedron
+hyperoctahedron
+hyperplane
+hyperprism
+hyperpyramid
+hypersphere
+hypersurface
+hypertetrahedron
+hypertorus
+hyperzonohedron
+klein bottle
+tesseract

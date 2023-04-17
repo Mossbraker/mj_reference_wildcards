@@ -1,0 +1,9 @@
+aqua
+azure
+beige
+blush
+chartreuse
+olive-green
+scarlet
+tan
+turquoise

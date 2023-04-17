@@ -1,0 +1,6 @@
+airplane
+auto
+blimp
+car
+hot air balloon
+rocket ship

@@ -1,0 +1,22 @@
+axis lines
+camouflage
+celtic maze
+checkerboard
+cow pattern
+damask patterns
+diffraction patterns
+girih
+girih patterns
+grid
+guilloche patterns
+halftone
+memphis pattern
+parametric patterns
+patterns
+pinstripe
+polka dot
+rorschach
+tiger pattern
+voronoi
+zebra pattern
+zellij patterns

@@ -1,0 +1,30 @@
+bowser
+bulbasaur
+charizard
+charmander
+chibi-robo
+diddy kong
+doctor eggman
+donkey kong
+goomba
+jigglypuff
+king dedede
+kirby
+knuckles the echidna
+koopa
+link
+luigi
+mario
+mega man
+meowth
+metroid
+pikachu
+princess peach
+rosalina
+samus
+sonic
+squirtle
+waluigi
+wario
+yoshi
+zelda

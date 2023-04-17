@@ -1,0 +1,10 @@
+bit
+byte
+exabyte
+gigabyte
+kilobyte
+megabyte
+petabyte
+terabyte
+yottabyte
+zettabyte

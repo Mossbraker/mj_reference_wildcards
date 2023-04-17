@@ -1,0 +1,27 @@
+color banding
+convolution matrix
+cropped
+dilate
+edge detection
+emboss
+erode
+glowing edges
+moire patterns
+mordancage
+oscillation
+posterization
+quantization
+quantum-wavetracing
+recursion
+repetition
+sabattier effect
+scan lines
+sharpened
+smudged
+sobel operator
+starburst
+tessellated
+textured
+tracers
+twisted rays
+volume

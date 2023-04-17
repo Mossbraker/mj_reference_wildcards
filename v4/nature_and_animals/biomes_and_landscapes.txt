@@ -1,0 +1,76 @@
+aquascape
+arctic
+bayou
+beach
+biome
+bog
+canyon
+cave
+chaparral
+coniferous forest
+coral reef
+crag
+deciduous forest
+deep sea
+desert
+desertwave
+dryland
+dunes
+elevation
+estuary
+fen
+floodplain
+foothills
+forest
+glacier
+grassland
+grove
+heathland
+hot springs
+jungle
+junglecore
+kelp forest
+lake
+landscape
+mangrove
+marsh
+meadow
+mediterranean
+mesa
+mesa bryce
+mountains
+muskeg
+ocean
+ocean grunge
+orchard
+park
+pasture
+plains
+polar
+pond
+prairie
+rainforest
+rangeland
+reefwave
+river
+savanna
+scrubland
+sea
+seaside
+setting
+settings
+shrubland
+springs
+steppe
+surroundings
+swamp
+thicket
+tropical
+tundra
+valley
+volcanic
+volcano
+wasteland
+waterfall
+wetland
+woodland

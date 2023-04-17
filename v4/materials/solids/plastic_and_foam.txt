@@ -1,0 +1,30 @@
+abs
+acrylonitrile-butadiene-styrene
+acrylonitrile-styrene-acrylate
+asa
+bubble wrap
+cling wrap
+foam
+melamine
+petg
+pla
+plastic
+plastic wrap
+pmma
+poly-methyl-methacrylate
+polyethylene
+polyethylene-terephthalate-glycol
+polyimide
+polylactic-acid
+polypropylene
+polyurethane
+polyvinyl
+polyvinyl-alcohol
+pva
+shrink wrap
+styrofoam
+teflon
+thermoplastic-elastomer
+thermoplastic-polyurethane
+tpe
+tpu

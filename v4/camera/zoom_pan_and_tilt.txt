@@ -1,0 +1,5 @@
+dolly zoom
+pan
+tilt
+tiltshift
+zoom

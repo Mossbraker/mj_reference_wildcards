@@ -1,0 +1,16 @@
+caustics
+glare
+glimmering
+glossy
+matte
+polished
+reflection
+reflective
+refraction
+refractive
+retroreflective
+rough
+shimmer
+shimmering
+shiny
+specular highlights

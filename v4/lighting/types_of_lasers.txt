@@ -1,0 +1,5 @@
+dye-laser
+gas-laser
+ion-laser
+laser
+laser light show

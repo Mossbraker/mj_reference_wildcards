@@ -1,0 +1,5 @@
+hard
+soft
+soft body
+solid
+squishy

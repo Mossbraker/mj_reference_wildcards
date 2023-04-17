@@ -1,0 +1,6 @@
+billion
+hundred
+million
+quadrillion
+thousand
+trillion

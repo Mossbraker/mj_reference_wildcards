@@ -1,0 +1,15 @@
+adventurecore
+cabincore
+cottagecore
+countrycore
+farmcore
+hermitpunk
+hikecore
+prairiecore
+rural
+ruralcore
+tavernwave
+urban
+urban exploration
+urbancore
+villagecore

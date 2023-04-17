@@ -1,0 +1,65 @@
+auditory-gustatory synesthesia
+auditory-tactile synesthesia
+auditory-visual synesthesia
+aura synesthesia
+chords-color synesthesia
+chromesthesia
+concept-smell synesthesia
+concept-sound synesthesia
+concepts-color synesthesia
+concepts-shape synesthesia
+emotion-color synesthesia
+grapheme-color synesthesia
+grapheme-image synesthesia
+grapheme-shape synesthesia
+grapheme-smell synesthesia
+grapheme-sound synesthesia
+grapheme-taste synesthesia
+grapheme-temperature synesthesia
+grapheme-texture synesthesia
+gustatory-auditory synesthesia
+gustatory-tactile synesthesia
+gustatory-visual synesthesia
+kinetics-color synesthesia
+letter-color synesthesia
+letter-image synesthesia
+letter-personality synesthesia
+letter-shape synesthesia
+letter-smell synesthesia
+letter-sound synesthesia
+letter-spatial location synesthesia
+letter-taste synesthesia
+letter-temperature synesthesia
+letter-texture synesthesia
+lexeme-color synesthesia
+lexeme-motor synesthesia
+lexeme-olfactory synesthesia
+lexeme-taste synesthesia
+lexical-gustatory synesthesia
+mathematical concepts-visual synesthesia
+morpheme-color synesthesia
+music-color synesthesia
+music-number synesthesia
+music-smell synesthesia
+music-taste synesthesia
+music-temperature synesthesia
+music-vision synesthesia
+musical-color synesthesia
+musical-spatial synesthesia
+musical-texture synesthesia
+number-form synesthesia
+olfactory-visual synesthesia
+personality-color synesthesia
+sound-kinetics synesthesia
+sound-number synesthesia
+sound-shape synesthesia
+sound-smell synesthesia
+sound-tactile synesthesia
+sound-taste synesthesia
+sound-temperature synesthesia
+sound-texture synesthesia
+sound-touch synesthesia
+spatial-sequence synesthesia
+synesthesia
+synesthetic
+words-color synesthesia

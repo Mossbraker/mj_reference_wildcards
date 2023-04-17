@@ -1,0 +1,14 @@
+0-d
+0-dimensional
+1-d
+1-dimensional
+2
+2
+2-dimensional
+2d
+3-dimensional
+3d
+4-dimensional
+4d
+5-dimensional
+5d

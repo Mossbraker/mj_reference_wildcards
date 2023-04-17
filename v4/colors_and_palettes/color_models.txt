@@ -1,0 +1,19 @@
+adobe rgb
+cga
+cmyk
+color model
+coloroid
+dci-p3
+ega
+hcl
+hdr
+hsl
+hsv
+pantone
+prophoto rgb
+rgb
+scrgb
+srgb
+vga
+ycbcr
+ypbpr

@@ -1,0 +1,28 @@
+anti-aliasing
+cel shading
+cgi
+de-noise
+digitally enhanced
+flat shading
+fxaa
+glsl-shaders
+gooch shading
+gouraud shading
+haze
+opengl-shaders
+phong shading
+post processing
+post-processing
+post-production
+ray traced
+ray tracing ambient occlusion
+rtx
+sfx
+shaders
+sharpen
+spot-healing
+ssao
+tone mapping
+txaa
+vfx
+volumetric haze

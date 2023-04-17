@@ -1,0 +1,20 @@
+earth
+global
+jupiter
+mars
+neptune
+planet
+planet earth
+planet jupiter
+planet mars
+planet mercury
+planet neptune
+planet pluto
+planet saturn
+planet uranus
+planet venus
+planetary
+planets
+pluto
+saturn
+uranus

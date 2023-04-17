@@ -1,0 +1,91 @@
+ampersand
+apostrophe
+asterisk
+asterism
+at sign
+backslash
+backtick
+black circle
+black square
+broken vertical bar
+bullet
+caret
+caret insertion point
+cent
+club
+colon
+comma
+copyright
+currency sign
+dagger
+degrees
+diamond
+divide
+dollar
+double dagger
+double left-pointing angle quotation mark
+double low-9 quotation mark
+double right-pointing angle quotation mark
+down arrow
+ellipsis
+equals
+euro
+exclimation mark
+five dots
+four dots
+greater than
+heart
+hyphen
+interrobang
+inverted exclimation mark
+inverted question mark
+isocolon
+latin f
+left arrow
+left curly bracket
+left guillemet
+left parenthesis
+left square bracket
+less than
+macron
+multiply
+number sign
+paragraph
+percent
+period
+permile
+pilcrow
+plus
+plus-minus sign
+pound
+question mark
+quotation mark
+registered trademark
+right arrow
+right curly bracket
+right guillemet
+right parenthesis
+right square bracket
+section sign
+semicolon
+single left-pointing angle quotation mark
+single right-pointing angle quotation mark
+slash
+small black square
+spaced four dots
+spade
+star
+three dots
+tilde
+trademark
+triangular bullet
+turned ampersand
+two dots
+underscore
+up arrow
+vertical bar
+vertical four dots
+white circle
+white square
+won
+yen

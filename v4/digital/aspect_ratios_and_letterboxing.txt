@@ -1,0 +1,6 @@
+anamorphic widescreen
+fullscreen
+letterboxing
+pillarbox
+widescreen
+windowbox

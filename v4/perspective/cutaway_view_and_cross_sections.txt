@@ -1,0 +1,6 @@
+cross-section
+cutaway
+cutaway drawing
+cutaway-view
+exploded-view
+exploded-view drawing

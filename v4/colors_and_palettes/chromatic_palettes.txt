@@ -1,0 +1,34 @@
+analogous-colors
+chroma
+color palette
+colorful
+complimentary-colors
+cool color palette
+dark
+dark mode
+dichromatism
+electric colors
+high saturation
+inverted colors
+light
+light blue background
+light blue foreground
+light mode
+low saturation
+multicolored
+neon
+palette
+polychromatic-colors
+rainbow
+saturated
+spectral color
+split-complementary-colors
+supplementary-colors
+tetrachromacy
+tetradic-colors
+tonal colors
+tones of black
+tones of black in background
+triadic-colors
+vibrant
+warm color palette

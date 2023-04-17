@@ -1,0 +1,18 @@
+accumulated aerosol
+accumulated mist
+accumulated vapor
+aerosol
+aerosol plume
+air
+clouds
+fog
+gas
+gaseous
+mist
+mist plume
+vapor
+vapor plume
+vaporized
+wafting aerosol
+wafting mist
+wafting vapor

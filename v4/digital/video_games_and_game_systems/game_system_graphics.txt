@@ -1,0 +1,34 @@
+atari 2600 palette
+atari graphics
+atari st palette
+game boy advance palette
+game boy color palette
+game boy palette
+gameboy graphics
+gamecube graphics
+nes palette
+nintendo 3ds graphics
+nintendo 64 graphics
+nintendo ds graphics
+nintendo switch graphics
+playstation 1 graphics
+playstation 2 graphics
+playstation 3 graphics
+playstation 4 graphics
+playstation 5 graphics
+playstation portable graphics
+playstation vita graphics
+ps vita graphics
+ps1 graphics
+ps2 graphics
+ps3 graphics
+ps4 graphics
+ps5 graphics
+psp graphics
+snes palette
+wii graphics
+wii u graphics
+xbox 360 graphics
+xbox graphics
+xbox one graphics
+xbox one x graphics

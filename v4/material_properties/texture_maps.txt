@@ -1,0 +1,6 @@
+bump map
+bump mapped
+bump mapping
+depth map
+displacement map
+normal map

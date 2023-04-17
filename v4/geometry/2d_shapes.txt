@@ -1,0 +1,21 @@
+2d shape
+chevron
+decagon
+dot
+heart
+heptagon
+hexagon
+hexagonal
+line
+nonagon
+octagon
+parallelogram
+pentagon
+point
+rectangle
+rectangular
+rhombus
+spirangle
+square
+star
+triangle

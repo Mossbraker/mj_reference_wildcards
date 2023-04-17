@@ -1,0 +1,17 @@
+aeon
+current-time
+decade
+early
+epoch
+future
+hour
+late
+millennia
+minute
+month
+past
+present-time
+second
+time
+week
+year

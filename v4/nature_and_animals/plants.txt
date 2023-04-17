@@ -1,0 +1,36 @@
+acorn
+aloe
+bamboo
+branches
+cactus
+daffodil
+dandelion
+fern
+floral
+flowers
+grass
+grassy
+hay
+hay-bale
+hemp
+kelp
+leaves
+lilac
+lily pad
+lily pads
+moss
+pinecone
+plant
+plants
+rose
+sapling
+seaweed
+straw
+straw-bale
+tendrils
+tree
+tree bark
+tulip
+vines
+water lilies
+wheat

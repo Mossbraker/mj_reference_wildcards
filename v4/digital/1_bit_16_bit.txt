@@ -1,0 +1,12 @@
+1-bit
+12-bit
+12-bit rgb
+16-bit
+16-bit rgb
+2-bit
+3-bit
+4-bit
+4-bit rgb
+6-bit
+8-bit
+8-bit rgb
